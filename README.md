@@ -60,10 +60,3 @@ The strategy supports:
 2. **Order Book Updates**: As the market changes, the strategy updates its view of the order book and adjusts its predictions.
 3. **Strategy Execution**: The trading strategy (market making or arbitrage) is executed based on the current fair price and order book data.
 4. **Risk Management**: The system continuously monitors position sizes and enforces stop-loss rules to protect capital.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone <repo_url>
-   cd <repo_folder>
